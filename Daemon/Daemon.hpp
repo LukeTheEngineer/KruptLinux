@@ -22,7 +22,6 @@
 // System includes
 #include <iostream>
 #include <chrono>
-#include <unistd.h>
 
 class Daemon : public DaemonThread
 {
