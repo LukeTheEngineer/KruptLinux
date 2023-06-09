@@ -16,6 +16,7 @@ This repo is supported by most operating system out there and building it very s
 6. run make when the files are generated: **make**
 
 **[WITH WINDOWS VISUAL STUDIO]**
+
 **NOTE**: In the CMakeLists.txt you must change the CMAKE_SUPPRESS_REGENERATION to OFF in order to generate the solution file.
 
 1. Clone the repo with the command: **git clone https://github.com/LukeTheEngineer/KruptLinux**
