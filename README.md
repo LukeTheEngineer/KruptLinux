@@ -28,3 +28,5 @@ This repo is supported by most operating system out there and building it very s
 7. build the solution **Build>>Build Solution** or **CTRL+Shift+B**
 
 And you should be finished!!!
+
+![KruptInterface](https://github.com/LukeTheEngineer/KruptLinux/assets/111693121/400205b2-88c9-4a1b-860e-b5faa3767338)
